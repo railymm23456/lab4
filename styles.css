@@ -1,0 +1,66 @@
+.jumbotron {
+    background-image: url('https://i.imgur.com/i8tfYZH.jpg');
+    background-size: cover;
+    background-position: center;
+    height: 400px;
+   padding: 130px;
+   width: 1200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+
+  }
+  body {
+    font-family: 'Ubuntu', sans-serif;
+  }
+  
+  h1,h2,h3,h4,h5,h6{
+    font-family: 'Montserrat', sans-serif;
+  }
+  
+  p {
+    color: #8f8f8f;
+  }
+  
+  .random-block-test {
+    border-radius: 25px;
+    color: white;
+    background-color: rgba(0, 0, 0, .75);
+    padding: 20px;
+  }
+  
+  .circleimage {
+    border-radius: 50%;
+  }
+  
+  #aboutus {
+    padding: 3em;
+    background-color: #a1e29e;
+    text-align: center;
+  }
+  
+  #cookie-body {
+    padding-bottom: 3em; 
+  }
+  
+  #cookie-title {
+    padding-bottom: 3em; 
+  }
+  
+  #contactus {
+    padding: 3em;
+    background-color: #28b34d;
+    text-align: center;
+  }
+  
+  #illustrationsoftwopeoplebaking {
+    height: 130px;
+    border-radius: 50%;
+    float: left;
+  }
+  
+  body {
+  padding-bottom: 100px;
+  height: 100%;
+  }
+  
